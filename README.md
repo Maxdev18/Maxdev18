@@ -5,7 +5,7 @@ I'm a proud web developer eager to learn and share new things and ideas. Web del
 ## What I'm working on
 Currenlty, I'm working on my own blog/portfolio site. I'm using React, SCSS, and Tailwind for the frontend. Node, Express, and firebase for the backend. And finally typescript as the language for both ends.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxdev18&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxdev18&count_private=true)
 
 ## Contact
 - Email: maxpersonal1721@gmail.com
